@@ -1,6 +1,3 @@
-
-
-
 import { useState } from "react";
 
 const Da = () => {
@@ -9,6 +6,7 @@ const Da = () => {
     const [list, setlist] = useState([]);
     const [values1, setvalues1] = useState(['val1', 'val2', 'val3', 'val4']);
     const [values2, setvalues2] = useState(['val5', 'val6', 'val7', 'val8']);
+    const a = "harshal"
     const ch = (e) => {
         setdatas({ ...datas, [e.target.name]: e.target.value })
     }
