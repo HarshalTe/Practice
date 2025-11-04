@@ -4,6 +4,8 @@ import Dropdown1 from "./Dropdown1";
 import DynamicForm from "./DynamicForm";
 import H1 from "./H1";
 import H2 from './H2'
+import Dar from "./Dar"
+import ArOb from "./ArOb"
 const Hmain = ()=>{
      return(
         <>
@@ -12,7 +14,8 @@ const Hmain = ()=>{
           {/* <CompanyWorkDropdown/> */}
           {/* <Dropdown1/> */}
           {/* <DynamicForm/> */}
-          <Da/>
+          {/* <Dar/> */}
+          <ArOb/>
         </>
      );
 }
