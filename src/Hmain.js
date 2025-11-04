@@ -12,7 +12,7 @@ const Hmain = ()=>{
           {/* <CompanyWorkDropdown/> */}
           {/* <Dropdown1/> */}
           {/* <DynamicForm/> */}
-          <Da/>
+          <Da val={20}/>
         </>
      );
 }
