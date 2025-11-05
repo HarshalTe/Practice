@@ -12,9 +12,30 @@ const Hmain = ()=>{
           {/* <CompanyWorkDropdown/> */}
           {/* <Dropdown1/> */}
           {/* <DynamicForm/> */}
+
+
+          <Da val={20}  nnnn={256}/>
+
+
+
           <Da val={20} na={"harshal"} nw={"somthing...."} fullname={"hbt"} ne={"ne"}/>
           <h1>HARSHAL</h1>
+
           <h2>PRATHAMESH</h2>
+
+            <h1>HARSHAL2</h1>
+                  <h1>HARSHAL</h1>
+
+          <h2>PRATHAMESH</h2>
+
+            <h1>HARSHAL2</h1>
+                  <h1>HARSHAL</h1>
+
+          <h2>PRATHAMESH</h2>
+
+            <h1>HARSHAL2</h1>
+
+
         </>
      );
 }
