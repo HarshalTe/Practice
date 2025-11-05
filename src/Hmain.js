@@ -13,6 +13,7 @@ const Hmain = ()=>{
           {/* <Dropdown1/> */}
           {/* <DynamicForm/> */}
           <Da val={20} na={"harshal"} nw={"somthing...."} fullname={"hbt"} ne={"ne"}/>
+          <h1>HARSHAL</h1>
         </>
      );
 }
