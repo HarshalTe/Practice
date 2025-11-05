@@ -19,7 +19,9 @@ const Hmain = ()=>{
 
 
           <Da val={20} na={"harshal"} nw={"somthing...."} fullname={"hbt"} ne={"ne"}/>
-          <h1>HARSHAL</h1>
+          <h1>HARSHA</h1>
+      <h1>s</h1>
+      <h1>s</h1>
 
           <h2>PRATHAMESH</h2>
 
